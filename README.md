@@ -1,7 +1,7 @@
 # custom_split_SDfile
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/abeebyekeen/custom_split_SDfile?style=flat-square)](https://github.com/abeebyekeen/custom_split_SDfile/releases)
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.7052472.svg?style=svg)](https://zenodo.org/record/7052472#.Yxbkw3ZBzi1)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.7052472.svg?style=svg)](https://zenodo.org/record/7052471#.Yxbkw3ZBzi1)
 
 **custom_split_SDfile** is a **Python3** code that splits a huge compound library in *.SD/.SDF* format into user-defined smaller sub-libraries
 
